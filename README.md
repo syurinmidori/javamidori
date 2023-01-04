@@ -1,0 +1,2 @@
+# javamidori
+study java
